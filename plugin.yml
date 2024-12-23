@@ -3,7 +3,7 @@ author: ZalgoDev
 version: 1.0.0
 main: ZalgoDev\ReloadPlugins\Main
 src-namespace-prefix: ZalgoDev\ReloadPlugins
-api: 5.0.0
+api: 5.16.0
 commands:
   reload:
     description: "Reload one or more plugins while the server is running."
