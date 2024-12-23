@@ -35,3 +35,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir des issues ou d
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+
+[![](https://poggit.pmmp.io/shield.state/ReloadPlugins)](https://poggit.pmmp.io/p/ReloadPlugins)
