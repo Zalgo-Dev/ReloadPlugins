@@ -5,4 +5,5 @@ branches:
 projects:
   ReloadPlugins:
     path: ""
+    icon: icon.png
 ...
