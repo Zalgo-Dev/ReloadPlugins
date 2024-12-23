@@ -1,0 +1,16 @@
+name: ReloadPlugins
+author: ZalgoDev
+version: 0.0.1
+main: ZalgoDev\ReloadPlugins\Main
+src-namespace-prefix: ZalgoDev\ReloadPlugins
+api: 5.23.2
+commands:
+  reload:
+    description: "Reload one or more plugins while the server is running."
+    usage: "/reload <pluginName>"
+    permission: reload.reload
+    permission-message: "You don't have permission to use this command!"
+permissions:
+  reload.reload:
+    description: "Allows player to use /reload command"
+    default: op
