@@ -1,6 +1,6 @@
 name: ReloadPlugins
 author: ZalgoDev
-version: 0.0.1
+version: 1.0.0
 main: ZalgoDev\ReloadPlugins\Main
 src-namespace-prefix: ZalgoDev\ReloadPlugins
 api: 5.23.2

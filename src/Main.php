@@ -26,7 +26,6 @@ class Main extends PluginBase{
                     $sender->sendMessage(TextFormat::DARK_PURPLE . "[ReloadPlugings] " . TextFormat::RED . "Plugin not found");
                     return false;
                 }
-                return true;
             } else {
                 $pluginManager = $this->getServer()->getPluginManager();
                 $sender->sendMessage(TextFormat::DARK_PURPLE . "[ReloadPlugings] " . "§eDeactivate all plugins...");
